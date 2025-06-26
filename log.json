@@ -1,11 +1,21 @@
 {
-  "latestVersionCode": 12,
+  "latestVersionCode": 11,
   "latestVersionName": "2.7",
   "versions": [
     {
-      "versionCode": 12,
+      "versionCode": 11,
       "versionName": "2.7",
-      "updateLog": ""
+      "updateLog": "- Added news\n- Added update alert\n- Added version display in settings"
+    },
+    {
+      "versionCode": 10,
+      "versionName": "2.6",
+      "updateLog": "- Added missing fault codes for the SINAMICS DCM"
+    },
+    {
+      "versionCode": 8,
+      "versionName": "2.4",
+      "updateLog": "- Added more devices\n- Categorized devices\n- Added a button to open internet link to devices that have a website\n- Added a button to show manuals relating to the device\n- Users can now change text size in settings\n- Updated setting UIs to be more user friendly\n- Fixed minor UIs bugs"
     }
   ]
 }
