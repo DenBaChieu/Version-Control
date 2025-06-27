@@ -1,11 +1,16 @@
 {
-  "latestVersionCode": 11,
-  "latestVersionName": "2.7",
+  "latestVersionCode": 13,
+  "latestVersionName": "2.8",
   "versions": [
+    {
+      "versionCode": 13,
+      "versionName": "2.8",
+      "updateLog": "- Added a link to privacy policy page in settings\n- In the fault finder page, the search text and the scroll position are now saved when the user check out a fault code. So users don't have to search or scroll again and can continue from where they left off\n- Minor bug fixes"
+    },
     {
       "versionCode": 11,
       "versionName": "2.7",
-      "updateLog": "- Added news\n- Added update alert\n- Added version display in settings"
+      "updateLog": "- Added news and update log\n- Added update alert\n- Added version display in settings"
     },
     {
       "versionCode": 10,
