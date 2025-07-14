@@ -1,7 +1,12 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "2.8",
+  "latestVersionCode": 14,
+  "latestVersionName": "2.9",
   "versions": [
+    {
+      "versionCode": 14,
+      "versionName": "2.9",
+      "updateLog": "- Fixed sharing incomplete content for fault codes that can be changed to a specific code\n- Centralized the share button\n- Made the \"Fault value\" button for \"Rectifier Unit/Regenerating Unit\" more noticeable\n- Settings now also show the build version\n- Added footer in news screen\n- Minor touch-ups"
+    },
     {
       "versionCode": 13,
       "versionName": "2.8",
